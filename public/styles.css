@@ -64,21 +64,3 @@ body {
     font-size: 92.5%;
     margin-left: 0;
   }
-
-  dd dt {
-    margin-top: 1rem;
-    margin-bottom: 0.25rem;
-    font-weight: 600;
-    font-size: inherit;
-  }
-
-  dd dl {
-    font-size: 90%;
-    margin: 1rem auto 0 auto;
-    letter-spacing: 0.33px;
-    max-width: 15rem;
-  }
-
-  dd dl .term {
-    margin-bottom: 1rem;
-  }
