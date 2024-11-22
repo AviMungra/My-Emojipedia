@@ -3,7 +3,7 @@ It is a website where you can find name &amp; description about emojis.
 
 It is made using **React.js**. It uses **map() function** for mapping data to the function. 
 
-Thus, when we add a new data (in the form of an object) in the emojipedia.js file a new emoji card will be automatically rendered and can be seen in the browser.
+Thus, when we add a new data (in the form of an object) in the **emojipedia.js** data file a new emoji card will automatically be rendered and can be seen in the browser without making any change in our JavaScript code files.
 
 ### How to run the project
 -	First open the terminal and change the directory to the current working directory in which we have our project using **cd command**.
