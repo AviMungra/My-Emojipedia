@@ -1,5 +1,5 @@
 # My-Emojipedia
-It is a website where you can find name &amp; description about emojis 😀😋😊🥳.
+It is a website where you can find name &amp; description about emojis. 😀😋😊🥳
 
 It is made using **React.js**. It uses **map() function** for mapping data to the function. 
 
